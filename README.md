@@ -88,6 +88,7 @@ MIT License
 
 ## 🙌 Credits
 
+- https://www.youtube.com/watch?v=E4l91XKQSgw
 - [LangChain](https://www.langchain.com/)
 - [Ollama](https://ollama.com/)
 - [ChromaDB](https://www.trychroma.com/)
