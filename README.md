@@ -1,4 +1,4 @@
-# Pizza-Review-AI-agent-with-chromadb
+# Pizza-Review-AI-agent-with-Ollama
 An AI-powered question-answering agent that uses real restaurant reviews to answer questions about a pizza restaurant. It combines **LangChain**, **Ollama**, and **ChromaDB** to create a local Retrieval-Augmented Generation (RAG) pipeline.
 
 ---
